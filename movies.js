@@ -1,0 +1,48 @@
+let movies = [
+    {
+      id: 001,
+      title: "Alien",
+      rating: 3,
+      awards: 1,
+      length: "240 min",
+      price: 50,
+      genre: "Ciencia Ficción",
+    },
+    {
+      id: 002,
+      title: "Capitan America",
+      rating: 6,
+      awards: 2,
+      length: "180 min",
+      price: 45,
+      genre: "Acción",
+    },
+    {
+      id: 003,
+      title: "Viernes 13",
+      rating: 2,
+      awards: 0,
+      length: "200 min",
+      price: 20,
+      genre: "Suspenso",
+    },
+    {
+      id: 004,
+      title: "Star Wars",
+      rating: 7,
+      awards: 2,
+      length: "240 min",
+      price: 55,
+      genre: "Ciencia Ficción",
+    },
+    {
+      id: 005,
+      title: "Iron Man 2",
+      rating: 6,
+      awards: 0,
+      length: "180 min",
+      price: 25,
+      genre: "Acción",
+    },
+  ];
+  module.exports= movies;
